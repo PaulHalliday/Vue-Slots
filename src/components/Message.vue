@@ -1,7 +1,9 @@
 <template>
   <div>
     <h1>I'm part of the Message component!</h1>
-    <slot></slot>
+    <slot>
+      <h2>I'm a default heading that appears <em>only</em> when no slots have been passed into this component</h2>
+    </slot>
   </div>
 </template>
 

@@ -6,6 +6,7 @@
     <message>
       <h2>Learning about Slots in Vue.</h2>
     </message>
+    <message></message>
   </div>
 </template>
 
